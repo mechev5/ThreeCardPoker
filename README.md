@@ -1,2 +1,2 @@
 # Three Card Poker
-Software DEesign project created with JavaFX
+Software Design project created with JavaFX
